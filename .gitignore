@@ -33,4 +33,10 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
+.vscodeo/
+
+### Terraform ###
+.terraform
+*.terraform
+**./terraform
+
